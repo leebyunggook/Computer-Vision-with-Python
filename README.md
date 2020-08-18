@@ -1,2 +1,2 @@
-# Computer-Vision-with-Python
-Programming Computer Vision with Python
+# OpenCV Python Tutorial to Computer-Vision
+Programming Computer Vision with OpenCV Python
